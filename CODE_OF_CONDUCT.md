@@ -78,13 +78,42 @@ Examples of unacceptable behavior by participants include:
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Lab meetings
+
+Lab meetings will occur weekly. Attendance is required and it is imperative that you come prepared. I will notify you of changes to the schedule at least a day in advance. In addition, I will meet individually with graduate students on a weekly basis to discuss progress on top of weekly lab meetings. The timing of these meetings may change depending on projects, pending publications, and your graduate defense. We will address this as needed.
+
+## Lab Documents
+
+It is your responsibility to maintain a detailed, organized, and accurate record of your research. Lab notebooks are lab 
+property and therefore must be maintained to a standard where they can be interpreted by others. Any computer code that you 
+generate must be properly documented and reproducible. Expect that all of your code will be published alongside manuscripts. 
+All raw data, metadata, analyzed data, manuscripts, figures, and coding developed in the lab are required to be available on a 
+shared drive and/or cloud. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version], and also borrows from [dasaderi COC templates](https://github.com/dasaderi/CoC_templates/blob/master/lab_manifesto_template.md) and [WhitakerLab](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version], and also borrows from [dasaderi COC templates](https://github.com/dasaderi/CoC_templates/blob/master/lab_manifesto_template.md) and [Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md) by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0.
+
+The RAP Group Guide is licensed under CC BY 4.0 by Joseph Casillas.
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
