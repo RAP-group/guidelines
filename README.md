@@ -7,7 +7,7 @@ New RAP group members should read all the documentation carefully and contact me
 
 ## Getting started
 
-If you are new to the RAP Group, see the [getting_started]() repo for useful information to help during the early stages of graduate research. 
+If you are new to the RAP Group, see the [getting_started](https://github.com/RAP-group/getting_started) repo for useful information to help during the early stages of graduate research. 
 
 ## License and code of conduct
 
