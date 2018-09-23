@@ -40,7 +40,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version], and also borrows from [dasaderi COC templates](https://github.com/dasaderi/CoC_templates/blob/master/lab_manifesto_template.md) and [WhitakerLab](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
