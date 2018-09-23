@@ -1,4 +1,8 @@
-# research_overview
+# Research overview
 
 In this repo you will find our group [code of conduct](./code_of_conduct.md) and other useful information. 
 New RAP group members should read all this information carefully and contact me if they have any questions. 
+
+## License
+
+The content in this repository is openly licensed with a CC BY 4.0. This implies that you can use and edit the materials freely as long as you credit the source.
