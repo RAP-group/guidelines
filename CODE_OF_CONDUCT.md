@@ -41,9 +41,6 @@ written communication, applying for grants, lab management, mentoring, and scien
 encourage you to seek teaching opportunities, even if not required for your degree, include you where appropriate in grant 
 writing and manuscript reviews, and provide opportunities for you to mentor junior researchers. I will enforce high standards 
 of scientific ethics and professionalism.  
-- Provide financial resources to you as appropriate and/or according to my institution's guidelines. To the best of my ability, 
-I will provide the resources that you need to conduct your experiments. In addition, I will support you in trying to obtain 
-external funding for your degree program.
 - Help you navigate your graduate program of study. You are responsible for keeping up with deadlines and being knowledgeable 
 about requirements for your specific program. However, I am available to help interpret these requirements, select appropriate 
 coursework, and select committee members for your oral exams. 
