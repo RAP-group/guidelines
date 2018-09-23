@@ -23,7 +23,7 @@ Provide feedback on my mentoring to you. Not everyone has the same mentoring nee
 be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know 
 that they are needed. 
 
-### My responsibility to:
+### As group leader, my responsibility to:
 
 - Provide everyone under my supervision an environment that is intellectually stimulating, emotionally supportive, safe, 
 and free of harassment. I will enforce a culture governed by collegiality that values differences in personalities and opinions 
