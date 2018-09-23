@@ -1,4 +1,4 @@
-# Research guidelines
+# Guidelines
 
 In this repo you will find lab guidelines and other useful information. 
 New RAP group members should read all the documentation carefully and contact me if they have any questions. 
