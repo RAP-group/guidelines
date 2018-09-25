@@ -5,6 +5,8 @@ New RAP group members should read all the documentation carefully and contact me
 
 ## Open science and reproducible research
 
+We are dedicated to conducting reproducible research using the principles of open science. 
+
 ## Getting started
 
 If you are new to the RAP Group, see the [getting_started](https://github.com/RAP-group/getting_started) repo for useful information to help during the early stages of graduate research. 
