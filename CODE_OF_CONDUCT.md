@@ -4,7 +4,7 @@
 
 This document is primarily aimed at graduate students pursuing a PhD or masters degree in Bilingualism/SLA, Linguistics, Psychology and Cognitive Science. If you are an undergraduate, or are joining the lab in some other capacity, let me know if you have questions about how this document applies to you.
 
-This document should be viewed as a tool to initiate discussion during the early stages of the graduate program, with an awareness that the relationship and expectations will evolve with time. The parties may wish to use this template not only for verbal discussion but also as a written letter of understanding that will help to guide the relationship and expectations of the student, their PI, and the relevant departments/faculties. The hope is that this agreement clarifies questions that arise in the lab setting and reduces conflict or tension to make everyone’s interactions more enjoyable.
+This document should be viewed as a tool to initiate discussion during the early stages of the graduate program, with an awareness that the relationship and expectations will evolve with time. The hope is that this agreement clarifies questions that arise in the lab setting and reduces conflict or tension to make everyone’s interactions more enjoyable.
 
 ## Responsibilities
 
@@ -23,7 +23,7 @@ Provide feedback on my mentoring to you. Not everyone has the same mentoring nee
 be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know 
 that they are needed. 
 
-### As group leader, my responsibility to:
+### As group leader, my responsibility is to:
 
 - Provide everyone under my supervision an environment that is intellectually stimulating, emotionally supportive, safe, 
 and free of harassment. I will enforce a culture governed by collegiality that values differences in personalities and opinions 
@@ -49,10 +49,10 @@ apply for travel fellowships to help pay for attending conferences.
 - Provide career advice and assist you in finding a position following your graduation. I will give advice and feedback on your 
 career goals, and encourage you to explore opportunities both outside and within academia as suits your interests and progress. 
 
-## The RAP Group is committed to an harassment-free policy
+## The RAP Group is committed to a harassment-free policy
 
 We value the participation of every member of our community and want to ensure that every member has an enjoyable and fulfilling 
-learning and working experience. Accordingly, everyone who participates in any XX Lab project is expected to show respect and 
+learning and working experience. Accordingly, everyone who participates in any RAP Group project is expected to show respect and 
 courtesy to other members at all time.
 To make clear what is expected, I ask all members of the RAP Group to conform to the following Code of Conduct:
 Joseph Casillas, as head of the RAP Group, and all lab members, are dedicated to a harassment-free experience for everyone, regardless 
@@ -89,21 +89,6 @@ property and therefore must be maintained to a standard where they can be interp
 generate must be properly documented and reproducible. Expect that all of your code will be published alongside manuscripts. 
 All raw data, metadata, analyzed data, manuscripts, figures, and coding developed in the lab are required to be available on a 
 shared drive and/or cloud. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Scope
 
